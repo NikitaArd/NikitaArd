@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NikitaArd
-- 👀 I’m interested in programming and komputers
-- 🌱 I’m currently learning HTML/CSS and Python (Django)
-- 💞️ I’m looking to collaborate on -_-
-- 📫 How to reach me -_-
+for day in life:
+  Learn()
+  Code()
+  
+Die()
