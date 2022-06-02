@@ -1,8 +1,3 @@
-## Hello world
+# Nikita Smolensky
 
-___
-This is my Readme.md
-
-
-___
-This is new information
+### Languages and technologies:
