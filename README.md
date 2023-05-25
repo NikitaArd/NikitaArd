@@ -1,19 +1,15 @@
 # Nikita Smolenskyi
 
-## About me
+## 😊 About me
+
+</br>
 
 Coming soon . . .
 
-</br>
-
 ---
-
-</br>
-
 ## 🧰 Languages and tools:
 
 </br>
-
 
 <img style="width: 40px; margin: 5px"
  src="https://skillicons.dev/icons?i=python" />
@@ -21,19 +17,16 @@ Coming soon . . .
  src="https://skillicons.dev/icons?i=django" />
 <img style="width: 40px; margin: 5px"
  src="https://skillicons.dev/icons?i=flask" />
-</br>
 <img style="width: 40px; margin: 5px"
  src="https://skillicons.dev/icons?i=postgresql" />
 <img style="width: 40px; margin: 5px"
  src="https://skillicons.dev/icons?i=sqlite" />
-</br>
 <img style="width: 40px; margin: 5px"
  src="https://skillicons.dev/icons?i=js" />
 <img style="width: 40px; margin: 5px"
  src="https://skillicons.dev/icons?i=html" />
 <img style="width: 40px; margin: 5px"
  src="https://skillicons.dev/icons?i=css" />
-</br>
 <img style="width: 40px; margin: 5px"
  src="https://skillicons.dev/icons?i=git" />
 <img style="width: 40px; margin: 5px"
@@ -41,11 +34,8 @@ Coming soon . . .
 <img style="width: 40px; margin: 5px"
  src="https://skillicons.dev/icons?i=postman" />
 
- </br>
-
  ---
 
-</br>
 
 ## 🔗 How you can contact with me ?
 
