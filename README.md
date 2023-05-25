@@ -43,15 +43,15 @@ Coming soon . . .
 
 <div style="display: flex; margin-bottom: 12px;">
 <img style="width: 20px" src="https://img.icons8.com/?size=512&id=OumT4lIcOllS&format=png">
-<a style="margin: auto 12px; color: white; cursor: pointer;" src="mailto:smolenskyi.nikita@gmail.com">smolenskyi.nikita@gmail.com</a>
+<p style="margin: auto 12px; color: white; cursor: pointer;">smolenskyi.nikita@gmail.com</p>
 </div>
 
 <div style="display: flex; margin-bottom: 12px;">
 <img style="width: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
-<a style="margin: auto 12px; color: white; cursor: pointer;" src="https://www.facebook.com/nikita.smolensky.1/">facebook.com/nikita_smolenskyi</a>
+<p style="margin: auto 12px; color: white; cursor: pointer;">facebook.com/nikita.smolensky.1/</p>
 </div>
 
 <div style="display: flex; margin-bottom: 12px;">
 <img style="width: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-<a style="margin: auto 12px; color: white; cursor: pointer;" src="https://www.linkedin.com/in/nikita-smolenskyi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BffCtS9kGQL264w2js190PQ%3D%3D">linkedin.com/in/nikita-smolenskyi</a>
+<p style="margin: auto 12px; color: white; cursor: pointer;">linkedin.com/in/nikita-smolenskyi</p>
 </div>
