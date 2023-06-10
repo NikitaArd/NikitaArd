@@ -8,10 +8,10 @@ Hi, my name is Nikita and I am a Python Developer. Currently, I am diving deeper
 
 On my GitHub profile you can find my projects, notes, and other materials.
 
- - 🗒️ Django Project Manager
- - 💸 Telegram Crypto Bot
- - 📋 Django To Do
- - 🔢 IPv4 calculator
+ - 🗒️ [Django Project Manager](https://github.com/NikitaArd/django-project-manager)
+ - 💸 [Telegram Crypto Bot](https://github.com/NikitaArd/telegram-crypto-bot)
+ - 📋 [Django To Do](https://github.com/NikitaArd/django-to-do)
+ - 🔢 [IPv4 calculator](https://github.com/NikitaArd/ipv4-subnet-calculator)
 
 ---
 ## 🧰 Languages and tools:
