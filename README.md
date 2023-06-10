@@ -4,7 +4,14 @@
 
 </br>
 
-Coming soon . . .
+Hi, my name is Nikita and I am a Python Developer. Currently, I am diving deeper into Python and concurrently creating projects that I continuously improve while studying. I also work with Python frameworks and libraries such as Django, Flask, asyncio, and others.
+
+On my GitHub profile you can find my projects, notes, and other materials.
+
+ - 🗒️ Django Project Manager
+ - 💸 Telegram Crypto Bot
+ - 📋 Django To Do
+ - 🔢 IPv4 calculator
 
 ---
 ## 🧰 Languages and tools:
