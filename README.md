@@ -8,9 +8,9 @@ Hi, my name is Nikita and I am a Python Developer. Currently, I am diving deeper
 
 On my GitHub profile you can find my projects, notes, and other materials.
 
- - 🗒️ [Django Project Manager](https://github.com/NikitaArd/django-project-manager)
- - 💸 [Telegram Crypto Bot](https://github.com/NikitaArd/telegram-crypto-bot)
- - 📋 [Django To Do](https://github.com/NikitaArd/django-to-do)
+ - 🗒️ [TaskSync](https://github.com/NikitaArd/TaskSync)
+ - 💸 [CoinTrackerBot](https://github.com/NikitaArd/CoinTrackerBot)
+ - 📋 [Personal Task Master](https://github.com/NikitaArd/Personal-Task-Master)
  - 🔢 [IPv4 calculator](https://github.com/NikitaArd/ipv4-subnet-calculator)
 
 ---
