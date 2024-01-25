@@ -9,7 +9,7 @@ Hi, my name is Nikita and I am a Python Developer. Currently, I am diving deeper
 On my GitHub profile you can find my projects, notes, and other materials.
 
  - 🗒️ [TaskSync](https://github.com/NikitaArd/TaskSync)
- - 💸 [CoinTrackerBot](https://github.com/NikitaArd/CoinTrackerBot)
+ - 💸 [CoinNotify](https://github.com/NikitaArd/CoinNotify)
  - 📋 [Personal Task Master](https://github.com/NikitaArd/Personal-Task-Master)
  - 🔢 [IPv4 calculator](https://github.com/NikitaArd/ipv4-subnet-calculator)
 
